@@ -1,0 +1,65 @@
+/*Pagina Login*/
+
+    
+    #central-login{
+        background-image:  url("../img/imagem.jpg");
+        background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      position: absolute;
+        width: 100%; height: 100%;
+    }
+    
+    #central-login .content{
+      margin-top: 15%;
+    }
+    #central-login form{
+      background:rgba(255,255,255, 0.2);
+      display: block; padding: 10px;
+      color: #FFF;
+      text-align: justify;
+    }
+    #central-login .btn-outline-primary{
+      border-radius: 0px;
+    }
+    
+    #central-login .input-container{
+      display: -ms-flexbox;
+      display: flex;
+      width: 100%;
+      margin-bottom: 15px;
+    }
+    
+    #central-login .icon{
+      padding: 15px 10px 10px 10px;
+      background-color: dodgerblue;
+      color: #FFF;
+      min-width: 50px;
+      text-align: center;
+    }
+    
+    #central-login .form-control{
+      border-radius: 0px;
+      width: 100%;
+      padding-top: 10px;
+      outline: none;
+      padding-top: 22px;
+      padding-bottom: 22px;
+    }
+    
+    #central-login .form-control:focus{
+      border: 2px solid dodgerblue;
+    }
+    
+    #button{
+      position: relative;
+    }
+    
+    #form{  
+      margin: auto;
+      width: 50%;
+      border: 3px solid green;
+      padding: 60px;
+    }
+
+    

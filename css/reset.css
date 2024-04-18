@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+html, body{
+    height: 100vh;
+}
+
+.container{
+    padding: 70px 0;
+}
+
+p, li {
+    color: #444;
+    font-size: 14px;
+}
